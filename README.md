@@ -31,7 +31,7 @@ The dataset consists of the following columns:
 
 * **Step 1 :** using Kaggle agi to extract the data using python.
 * **Step 2:** with the help of pandas transform the data like changing the values names, hadling the inconsistent data etc.
-* **Step 3:** last to lead the dataset into MYSQL server
+* **Step 3:** last to load the dataset into MYSQL server
 
 ## Data Analysis using SQL
 1. which type of renewable energy has the highest  capacity
