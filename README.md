@@ -1,5 +1,5 @@
 
-# Renewable Energy Analysis Using Pyhton and SQl
+# Renewable Energy Analysis Using Python and SQl
 
 ![Renewabel Energy using SQL and Python](https://github.com/Jey-krishna/Renewable-energy-analysis-using-SQL-and-python/assets/90081469/c6ee2034-8858-408b-8765-99337ede2999)
 
